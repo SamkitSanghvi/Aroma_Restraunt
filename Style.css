@@ -113,7 +113,7 @@
 
 #services{
     /* background-image: -webkit-linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)),url('./images/Dosa.jpg'); */
-    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5)) , url('./Image_of_Restraunt/Dosa.jpg');
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.5)) , url('./images/Dosa.jpg');
 
     /* background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.2)); */
     background-size: cover;
